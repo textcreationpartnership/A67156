@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of some certain members of the layity</title>
+            <author>Wright, J., fl. 1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67156</idno>
+            <idno type="STC">Wing W3690</idno>
+            <idno type="STC">ESTC R12297</idno>
+            <idno type="EEBO-CITATION">12931517</idno>
+            <idno type="OCLC">ocm 12931517</idno>
+            <idno type="VID">95683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95683)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 995:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of some certain members of the layity</title>
+                  <author>Wright, J., fl. 1681.</author>
+               </titleStmt>
+               <extent>1 sheet (1 p.)   </extent>
+               <publicationStmt>
+                  <publisher>For the author ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>Attributed to J. Wright by Wing.</note>
+                  <note>Plea for toleration of Protestant sects, namely Presbyterian, Baptist, and Quaker.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion --  England.</term>
+               <term>Protestantism.</term>
+               <term>Society of Friends --  England.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:95683:1"/>
+            <head>A DECLARATION OF Some Certain Members of the Layity OF THE CHURCH of ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E who deſire to be real Chriſtian Members of the Church of God in <hi>England,</hi> tho we highly eſteem of the Diſ<g ref="char:EOLhyphen"/>cipline, and Worſhip of the Church of <hi>England,</hi> and are greatly in love with Biſhops, and Common Prayer, and Holy-days, and Fine Churches, and Organs, and Singing-men, and have been out of Charity with all People that would not come to our Churches, and be as we are, yet ſeeing it hath pleaſed God to give us the grace of Patience, and to ſearch into the Doctrines and ways of our Diſſenters, to know their reaſons why they would not joyn in unity with us, and have ſound, that at this time there are but three Proteſtant fraternities that diſſent from us and their diſſenting is but in a few Particular ſmall matters, which the word of God neither Commands nor Forbids; ſo that ſome People that love them may uſe them, and they that love them not may let them alone: (For Conſcience is the ſtomack of the Soul to digeſt Doctrine, as the ſtomack of the Body is to digeſt meats, and as every ſtomack is not for all meats, ſo every Conſcience is not for all Doctrines) But the Grounds and Fundamentals of their Religion is the ſame as ours, that is to ſay, the true Chriſtian Religion according to the Holy Scriptures, and to ſhow, that there are but three diſſenting fraternities, as aforeſaid, we have found out theſe truths following.</p>
+            <p n="1">1. We find now, that the Presbyterians (becauſe they cannot enjoy tythes) are fain to be content with the Contributions of their Church Members, and ſo they and the Independants are become but one fraternity, whereas in times paſt they have been two fraternities; the one for Tythes, and the other againſt Tythes.</p>
+            <p n="2">2. We find the Anabaptiſts, to be the ſame alſo in their Divine Service, as the Presbyterian, Independants are, but only in this difference, the one Baptize their Infants; and the other Baptize none, but ſuch People as are at years of Diſcretion, and Proſeſs Chriſtianity.</p>
+            <p n="3">3. We find, that divers and ſeveral of thoſe People called Quakers, are alſo very good Chriſtians, and Preach true Doctrine according to the Holy Scriptures, and are ſomething purer than the other Sects, for they ſeeing Tythes to be a cauſe, that makes many Profane men get into the Office of the Miniſtry; and likewiſe ſeeing Contributions to be a cauſe, that makes many Hypocrites alſo get into the Office of the Miniſtry: They therefore Preach on free coſt to the end, neither the Profane men of the one ſide, nor Hypocrites of the otherſide, may for lucre only of Worldly benefit get into the Office of their Miniſtry, and this is done only for Chriſts ſake and the Goſpels, to keep the Miniſtry pure: For their true Miniſters of God did always (in all ages) Preach Repentance unto Sinners, more for Heavens ſake than for any Worldly profit; Yet Gods Prophets never wanted relief from Godly People in any age. But <hi>Cromwel</hi> by his Army Perſecuted theſe poor People, becauſe they ſpoke a<g ref="char:EOLhyphen"/>gainſt the pride and covetouſneſs of his Clergy, that he ſet up in his time, and God knows many of the Clergy have as much need of rebuke, as many of the Laity many times. Moreover we do not find, that ever any Popiſh Article againſt Proteſtants, or any o<g ref="char:EOLhyphen"/>ther falſe Doctrine hath been preached among the Quakers, as vulgar people have falſly reported.</p>
+            <div type="declaration">
+               <head>Therefore we declare.</head>
+               <p>That it is our Opinion, that ſuch a Voluntary Miniſtry to Preach on free-coſt, as aforeſaid, is of excellent uſe, and ex<g ref="char:EOLhyphen"/>ceeding neceſſary to be allowed of in the Church of <hi>England,</hi> (not only for preaching to poor People, (in poor Tabernac'es,) who cannot pay any thing ſufficiently to maintain a Miniſtry, nor get Pewes in their Pariſh Churches) but alſo it makes the Learned Clergy to be the more ſober and ſtudious in their places, and therefore we can think no other but that ſuch a free Voluntary Miniſtry are ſent of God, for we remember the Apoſtles were Working-men of ſeveral Trades (as theſe are) yet we do not believe, that God ſent theſe to hinder the Clergy of maintenance, but only to ſeaſon them, that they and the World may know, that the Holy Ghoſt is always among men in the Congregations of the Righteous; continu<g ref="char:EOLhyphen"/>ally Working People to repentance by his Babes and Sucklings, and not only by the Learned nor Wiſe nor Rich, for Chriſt did ſay to his Miniſters, ye are the Salt of the Earth, that is meant, to ſeaſon People with Virtue, by good Example of life as well as Doctrine, as Salt ſeaſons meat with ſalting it: Yet becauſe Satans malice is alſo always in the World, it is our opinion, that part of e<g ref="char:EOLhyphen"/>very Miniſtry both Voluntary and Mercenary will be corrupted, but our Saviour hath promiſed, that we ſhall know them by their Fruits.</p>
+               <p>And in regard we now enjoy our own Common Prayer Religion in Peace, we are willing, that all the honeſt tender hearted Chriſtians among the other three aforeſaid fraternities, may enjoy the ſame liberty; for we judge it to be a Sin to take up Arms to force Religion, knowing, that God only (and not man) is the Defender of the only true Religion that came from Heaven, that is, for men to live diligently after Gods Commandments, and according to the Doctrines Pre<g ref="char:EOLhyphen"/>cepts, and Examples of our Saviour Chriſt and his Holy Apoſtles, expreſſed in the new Teſtament; And we really deſire to have the ſame things uſed in our Divine Service, which the Holy Apoſtles both Commanded and Practiſed: And we think it is neceſſary there ſhould be an Uniformity of ſuch a true Divine Service, as is moſt pleaſing unto God, which is found in Holy Scripture to conſiſt of two Principal things, namely, 1. The reading and expounding of the Precepts of Chriſt, and 2ly. The liberty of ſpeaking by the Holy Spirit in decency and order always after Sermon, for if any Perſons have in their minds, any new ſong of Praiſe, or a Pſalm, or a Revelation, or a Prayer, or a Doctrine, or a Reproof to ſpeak (in Gods behalf) unto the People, we ſee no reaſon but they ſhould be permitted to ſpeak.</p>
+               <p>And we ſhould be glad if all Pluralities might be aboliſhed, and Tabernacles permitted to be Built in the Suburbs of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> where abundance of Churches are wanting, and that there may be no wandring to any Brothel or tippling Houſes on the Lords Day, and that all native Proteſtants of <hi>England,</hi> may have the ſame liberty to meet and Worſhip God according to their Conſcience, as the Forreign Proteſtants of <hi>England</hi> have, and that all People may be put into Church Memberſhips: And that all Miniſters of every Congregation may take Cognizance of every one of their Members, how they ſpend the Lords Day, and that all Congregations may always pray for the King, and keep themſelves from Idols. And in regard there is but three ſorts of Di<g ref="char:EOLhyphen"/>vine Service among Proteſtants, namely, 1. Common Prayer, 2. Sermon, and 3. ſpeaking <hi>ex tempore</hi> by the Holy Spirit, we ſhould be content to ſee theſe three things uſed in every Pariſh Church, or elſe to have a Tabernacle in every Pariſh (beſides the Church)for the Lay-Prophets to ſpeak in, eſpecially in great Pariſhes where People have no room in the Church, for in ſuch great Pa<g ref="char:EOLhyphen"/>riſhes there is need to be at leaſt two Congregations, that is to ſay, the Pariſh Church for the Orthodox Miniſter and the Rich, and a Ta<g ref="char:EOLhyphen"/>bernacle for the Lay-Prophets and the Poor, and then it will be very like there will not be too many Lay-Preachers, but rather too few, for when they have liberty we believe there will not be one in Ten Thouſand, that will then undertake to Preach on free-coſt, and all theſe things aforeſaid, we do really believe to be the very Truth; and this we ſpeak in Charity to all: Deſiring there may ne<g ref="char:EOLhyphen"/>ver be any more Perſecutions among Chriſtians. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Author <hi>J. Wright.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
